@@ -35,7 +35,9 @@
                     </div>
                 </div>
                 <div className="project-card">
-                   <img alt="Aamna Khatoon" src={Aboutt3}></img> 
+                   <a href="https://0k6pfmjx-5175.inc1.devtunnels.ms/" target="_blank" rel="noopener noreferrer">
+                        <img alt="Aamna Khatoon" src={Aboutt3}></img>
+                    </a>
                     <div className="project-info">
                         <h3>Weather Dashboard</h3>
                         <p>Real-time weather information with 5-day forecast using weather API.</p>
